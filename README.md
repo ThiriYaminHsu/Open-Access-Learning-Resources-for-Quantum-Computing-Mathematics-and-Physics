@@ -79,31 +79,30 @@
 
 - [Quantum Computing 101](https://academy.meetiqm.com/curriculum/index.html)
 
----
+## Textbooks
+- [Quantum Country: Quantum computing for the very curious by Andy Matuschak and Michael Nielsen](https://quantum.country/qcvc)
+- [Introduction to Quantum Information Science by Artur Ekert from the University of Oxford](https://www.arturekert.org/iqis)
+- [Qiskit Textbook](https://github.com/qiskit-community/qiskit-textbook)
 
+## Other Platforms
 - [Stanford Online](https://online.stanford.edu/courses/cs101-introduction-computer-science)
 - [Harvard CS50](https://pll.harvard.edu/catalog?topics%5B702%5D=702&price%5B1%5D=1&max_price=&start_date=&keywords=&url=)
-- [How to become a GOOD Theoretical Physicist by Gerard 't Hooft](https://www.goodtheorist.science/)
 - [The Alen Turing Institute: The Turing Online Learning Platform](https://www.turing.ac.uk/courses)
 - [Simons Foundation Lectures](https://www.simonsfoundation.org/science/simons-science-series/)
 - [Class Central](https://www.classcentral.com/subject/quantum-computing)
+- [How to become a GOOD Theoretical Physicist by Gerard 't Hooft](https://www.goodtheorist.science/)
+  
 - [The Coding School](https://the-cs.org/)
 - [Quantum Open Source Foundation (QOSF)](https://qosf.org/)
-- [Qiskit Textbook](https://github.com/qiskit-community/qiskit-textbook)
 - [Ingenii](https://www.ingenii.io/)
-- [PennyLane](https://pennylane.ai/)  
-- [Quantum Country](https://quantum.country/)  
-- [Quantum Katas by Microsoft](https://github.com/microsoft/QuantumKatas)  
+- [PennyLane](https://pennylane.ai/)   
+- [Quantum Katas by Microsoft](https://quantum.microsoft.com/en-us/tools/quantum-katas)
 - [QuEra](https://quera.com/)  
 - [Physics LibreTexts](https://phys.libretexts.org/)  
 - [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)  
+
+## Games
 - [Quantum Odyssey](https://store.steampowered.com/app/2802710/Quantum_Odyssey/)
-
----
-
-## Textbooks
--
--
--
----
+- [Quantum Computing Playground](https://www.quantumplayground.net/#/home)
+- [The Quantum Game](https://quantumgame.io/)
 
