@@ -1,4 +1,4 @@
-# Open-Access Learning Resources for Quantum Computing, Mathematics, and Physics
+# Open-Access Learning Resources for Quantum Computing, Quantum Mechanics, and Physics
 
 *If you’d like to add to this list, feel free to submit a pull request*
 
