@@ -101,7 +101,7 @@
 - [Physics LibreTexts](https://phys.libretexts.org/)  
 - [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)  
 
-## Games
+## Quantum Games
 - [Quantum Odyssey](https://store.steampowered.com/app/2802710/Quantum_Odyssey/)
 - [Quantum Computing Playground](https://www.quantumplayground.net/#/home)
 - [The Quantum Game](https://quantumgame.io/)
