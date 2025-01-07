@@ -1,3 +1,4 @@
+
 # Open-Access Learning Resources for Quantum Computing, Quantum Mechanics, and Physics
 
 *If you’d like to add to this list, feel free to submit a pull request*
@@ -91,7 +92,8 @@
 - [Qiskit: Understanding Quantum Information and Computation With John Watrous](https://youtu.be/0Av89fZenSY?feature=shared)
 - [Qiskit: Quantum Computing in Practice](https://youtu.be/bChFW4Za3Ws?feature=shared)
 - [FreeCodeCamp: Quantum Computing Course – Math and Theory for Beginners](https://youtu.be/tsbCSkvHhMo?feature=shared)
-
+- [MIT 8.04 Quantum Physics I, Spring 2013](https://youtube.com/playlist?list=PLUl4u3cNGP61-9PEhRognw5vryrSEVLPr&feature=shared)
+- [MIT 8.04 Quantum Physics I, Spring 2016](https://youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G&feature=shared)
 
 ## Other Platforms
 
