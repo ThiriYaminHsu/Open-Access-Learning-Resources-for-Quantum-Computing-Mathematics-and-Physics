@@ -94,6 +94,9 @@
 - [FreeCodeCamp: Quantum Computing Course – Math and Theory for Beginners](https://youtu.be/tsbCSkvHhMo?feature=shared)
 - [MIT 8.04 Quantum Physics I, Spring 2013](https://youtube.com/playlist?list=PLUl4u3cNGP61-9PEhRognw5vryrSEVLPr&feature=shared)
 - [MIT 8.04 Quantum Physics I, Spring 2016](https://youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G&feature=shared)
+- [Berkeley Quantum Mechanics and Quantum Computation course by Professor Umesh Vazirani](https://youtube.com/playlist?list=PL74Rel4IAsETUwZS_Se_P-fSEyEVQwni7&feature=shared)
+- [Quantum Machine Learning by Peter Wittek from the University of Toronto, Spring 2019](https://youtube.com/playlist?list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg&feature=shared)
+- [Domain of Science Quantum Physics series](https://youtube.com/playlist?list=PLOYRlicwLG3T3mQYvpemGPzQLu8FYtW3l&feature=shared)
 
 ## Other Platforms
 
