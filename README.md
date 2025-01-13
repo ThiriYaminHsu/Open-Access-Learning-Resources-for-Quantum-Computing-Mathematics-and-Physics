@@ -95,13 +95,14 @@
 
 ## Other Resources 
 
-- [Class Central](https://www.classcentral.com/subject/quantum-computing)
 - [Introduction to Quantum Information Science by Artur Ekert from the University of Oxford](https://www.arturekert.org/iqis)
+- [How to become a GOOD Theoretical Physicist by Gerard 't Hooft](https://www.goodtheorist.science/)
+- [Quantum Country: Quantum computing for the very curious by Andy Matuschak and Michael Nielsen](https://quantum.country/qcvc)
+- [Class Central](https://www.classcentral.com/subject/quantum-computing)
 - [Ingenii](https://www.ingenii.io/)
 - [Stanford Online](https://online.stanford.edu/courses/cs101-introduction-computer-science)
 - [Harvard CS50](https://pll.harvard.edu/catalog?topics%5B702%5D=702&price%5B1%5D=1&max_price=&start_date=&keywords=&url=)
 - [The Alen Turing Institute: The Turing Online Learning Platform](https://www.turing.ac.uk/courses)
-- [How to become a GOOD Theoretical Physicist by Gerard 't Hooft](https://www.goodtheorist.science/)
 - [The Coding School](https://the-cs.org/)
 - [Quantum Open Source Foundation (QOSF)](https://qosf.org/)
 - [PennyLane](https://pennylane.ai/)
@@ -109,11 +110,7 @@
 - [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)
 - [Quantum Katas by Microsoft](https://quantum.microsoft.com/en-us/tools/quantum-katas)
 - [QuEra](https://quera.com/)  
-- [Quantum Country: Quantum computing for the very curious by Andy Matuschak and Michael Nielsen](https://quantum.country/qcvc)
 - [Qiskit Textbook](https://github.com/qiskit-community/qiskit-textbook)
-
-## Quantum Games
-
 - [Quantum Odyssey](https://store.steampowered.com/app/2802710/Quantum_Odyssey/)
 - [Quantum Computing Playground](https://www.quantumplayground.net/#/home)
 - [The Quantum Game](https://quantumgame.io/)
