@@ -80,12 +80,6 @@
 
 - [Quantum Computing 101](https://academy.meetiqm.com/curriculum/index.html)
 
-## Textbooks
-
-- [Quantum Country: Quantum computing for the very curious by Andy Matuschak and Michael Nielsen](https://quantum.country/qcvc)
-- [Introduction to Quantum Information Science by Artur Ekert from the University of Oxford](https://www.arturekert.org/iqis)
-- [Qiskit Textbook](https://github.com/qiskit-community/qiskit-textbook)
-
 ## YouTube
 
 - [Perimeter Institute for Theoretical Physics: Quantum 101 - Quantum Science Explained](https://youtu.be/Xt1hO7YvNx0?feature=shared)
@@ -95,10 +89,11 @@
 - [MIT 8.04 Quantum Physics I, Spring 2013](https://youtube.com/playlist?list=PLUl4u3cNGP61-9PEhRognw5vryrSEVLPr&feature=shared)
 - [MIT 8.04 Quantum Physics I, Spring 2016](https://youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G&feature=shared)
 - [Berkeley Quantum Mechanics and Quantum Computation course by Professor Umesh Vazirani](https://youtube.com/playlist?list=PL74Rel4IAsETUwZS_Se_P-fSEyEVQwni7&feature=shared)
+- [Yale Course Fundamentals of Physics](https://youtube.com/playlist?list=PLFE3074A4CB751B2B&feature=shared)
 - [Quantum Machine Learning by Peter Wittek from the University of Toronto, Spring 2019](https://youtube.com/playlist?list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg&feature=shared)
 - [Domain of Science Quantum Physics series](https://youtube.com/playlist?list=PLOYRlicwLG3T3mQYvpemGPzQLu8FYtW3l&feature=shared)
 
-## Other Platforms
+## Other Resources 
 
 - [Stanford Online](https://online.stanford.edu/courses/cs101-introduction-computer-science)
 - [Harvard CS50](https://pll.harvard.edu/catalog?topics%5B702%5D=702&price%5B1%5D=1&max_price=&start_date=&keywords=&url=)
@@ -112,7 +107,10 @@
 - [Quantum Katas by Microsoft](https://quantum.microsoft.com/en-us/tools/quantum-katas)
 - [QuEra](https://quera.com/)  
 - [Physics LibreTexts](https://phys.libretexts.org/)  
-- [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)  
+- [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)
+- [Quantum Country: Quantum computing for the very curious by Andy Matuschak and Michael Nielsen](https://quantum.country/qcvc)
+- [Introduction to Quantum Information Science by Artur Ekert from the University of Oxford](https://www.arturekert.org/iqis)
+- [Qiskit Textbook](https://github.com/qiskit-community/qiskit-textbook)
 
 ## Quantum Games
 
