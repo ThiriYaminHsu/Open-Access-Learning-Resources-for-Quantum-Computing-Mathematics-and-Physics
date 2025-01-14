@@ -91,6 +91,7 @@
 - [Qiskit: Quantum Computing in Practice](https://youtu.be/bChFW4Za3Ws?feature=shared)
 - [Quantum Mechanics and Quantum Computation course by Professor Umesh Vazirani](https://youtube.com/playlist?list=PL74Rel4IAsETUwZS_Se_P-fSEyEVQwni7&feature=shared)
 - [Quantum Machine Learning by Peter Wittek from the University of Toronto, Spring 2019](https://youtube.com/playlist?list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg&feature=shared)
+- [Quantum Physics Study With Me by Tibees](https://youtube.com/playlist?list=PLATpsZGmpkg_fFaEbcx_Wj4WdDFjMFuX3&feature=shared)
 - [Yale Course Fundamentals of Physics](https://youtube.com/playlist?list=PLFE3074A4CB751B2B&feature=shared)
 
 ## Other Resources 
