@@ -94,6 +94,7 @@
 - [Quantum Physics Study With Me by Tibees](https://youtube.com/playlist?list=PLATpsZGmpkg_fFaEbcx_Wj4WdDFjMFuX3&feature=shared)
 - [Quantum Physics by Up and Atom](https://youtube.com/playlist?list=PL1lNrW4e0G8WmWpW846oE_m92nw3rlOpz&feature=shared)
 - [Yale Course Fundamentals of Physics](https://youtube.com/playlist?list=PLFE3074A4CB751B2B&feature=shared)
+- [How to learn Quantum Mechanics on your own (a self-study guide)](https://youtu.be/Rs572Cf4zkk?feature=shared)
 
 ## Other Resources 
 
